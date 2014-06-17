@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/cross.png</file>
+        <file>icons/line_green.png</file>
+        <file>icons/record_green.png</file>
+        <file>icons/decline.png</file>
+        <file>icons/resultset_next.png</file>
+        <file>icons/cursor.png</file>
+        <file>icons/disk.png</file>
+        <file>icons/folder.png</file>
+        <file>icons/page_white.png</file>
+        <file>icons/application-xp.png</file>
+        <file>icons/record_gray.png</file>
+        <file>icons/record_red.png</file>
+    </qresource>
+</RCC>
